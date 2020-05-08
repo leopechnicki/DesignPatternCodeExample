@@ -1,4 +1,4 @@
-package com.pechnicki.StrategyPattern;
+package com.pechnicki.strategypattern;
 
 public abstract class PhoneCameraApp{
     private ShareBehaviour shareBehaviour;

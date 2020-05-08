@@ -1,4 +1,4 @@
-package com.pechnicki.AdapterPattern;
+package com.pechnicki.adapterpattern;
 
 public interface Drone{
     public void beep();

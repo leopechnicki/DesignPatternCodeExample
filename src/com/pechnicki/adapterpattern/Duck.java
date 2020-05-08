@@ -1,4 +1,4 @@
-package com.pechnicki.AdapterPattern;
+package com.pechnicki.adapterpattern;
 
 public abstract class Duck{
     public abstract void quack();

@@ -1,4 +1,4 @@
-package com.pechnicki.StrategyPattern;
+package com.pechnicki.strategypattern;
 
 public class ShareOnInstagram extends ShareBehaviour{
     @Override
