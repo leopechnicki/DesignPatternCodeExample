@@ -1,6 +1,6 @@
 package com.pechnicki.adapterpattern;
 
-public class DuckSimulator{
+public class AdapterPattern{
     public static void main(String[] args){
         Drone drone = new SuperDrone();
         testDuck(new DroneAdapter(drone));

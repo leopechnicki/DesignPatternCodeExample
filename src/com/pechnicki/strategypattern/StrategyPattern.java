@@ -1,6 +1,6 @@
 package com.pechnicki.strategypattern;
 
-public class Main {
+public class StrategyPattern{
 
     public static void main(String[] args) {
 	    PhoneCameraApp phoneCameraApp1 = new CameraPlusApp();
